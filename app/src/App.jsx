@@ -1,8 +1,8 @@
 import Header from './components/Header';
 import AboutMe from './components/AboutMe';
-import Experiences from './components/Experiences';
 import Projects from './components/Projects';
 import LookingFor from './components/LookingFor';
+import Experiences from './components/Experiences';
 import './App.css'
 
 function App() {
